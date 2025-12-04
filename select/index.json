@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "不眠症の見張り番",
+  "base_artist": "amazarashi",
+  "createdAt": "2025-12-04T01:46:07.928044Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "不眠症の見張り番",
+      "artist": "amazarashi",
+      "has_synced": false,
+      "path": "select/pl_01_不眠症の見張り番_amazarashi.txt"
+    }
+  ]
+}
